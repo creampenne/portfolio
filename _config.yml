@@ -4,7 +4,7 @@ email: f2527@edu.dju.ac.kr # email of site's author
 url: https://whatuwant.me # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  a portfolio blog
+  a portfolio/blog
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
